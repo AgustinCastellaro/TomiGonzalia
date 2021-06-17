@@ -1,3 +1,12 @@
+<h1 align="center"> Hi! I'm Tomas 🇦🇷️</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TomiGonzalia&color=red&style=flat">
+</p>
+
+- 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"/> **Kotlin**, **Java** <img align="center" height="16" width="16" src="https://www.google.com/search?q=java+icon+png&source=lnms&tbm=isch&sa=X&ved=2ahUKEwier-_WyZ_xAhUMq5UCHQOkDuUQ_AUoAXoECAIQAw&biw=1366&bih=637#imgrc=ADc51r4hQ3HFsM"/>
+- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
