@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=TomiGonzalia&color=red&style=flat">
 </p>
 
-- 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/> **Kotlin** and <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Faenza-text-x-java.svg/640px-Faenza-text-x-java.svg.png"/>**Java**
+- 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/> **Kotlin** and <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Faenza-text-x-java.svg/640px-Faenza-text-x-java.svg.png"/> **Java**
 - 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
 
 ### ⚙️ &nbsp;GitHub Analytics
