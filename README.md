@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=TomiGonzalia&color=red&style=flat">
 </p>
 
-- 💻️ I'm currently learning  and <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Faenza-text-x-java.svg/640px-Faenza-text-x-java.svg.png"/> **Java**
+- 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Faenza-text-x-java.svg/640px-Faenza-text-x-java.svg.png"/> **Java**
 - 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
 
 <h3 align="left">I want to learn:</h3>
