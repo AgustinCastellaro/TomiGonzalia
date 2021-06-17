@@ -10,7 +10,7 @@
 <h3 align="center">I want to learn:</h3>
 <p >
   <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/> **Kotlin**
-<a href="https://twitter.com/lautiramirez_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
+
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
