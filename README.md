@@ -9,8 +9,9 @@
 
 <h3 align="left">I want to learn:</h3>
 <p >
-<img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/> <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/> 
-
+  <ul>
+<li><img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> <li><img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
+</ul>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
