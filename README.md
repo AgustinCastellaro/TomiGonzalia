@@ -7,15 +7,7 @@
 - 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> **Java** and <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/> **MySQL**
 - 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
 
-<h3 align="left">💡 I want to learn:</h3>
-<p>
-  <ul>
-    <li>Kotlin <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> 
-    <li>Spring <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></li> 
-    <li>Javascript <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
-    
-</ul>
-</p>
+
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <ul>
@@ -25,6 +17,16 @@
   <li> CSS3 <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></li>
  </ul>
  </p>
+ 
+ <h3 align="left">💡 I want to learn:</h3>
+<p>
+  <ul>
+    <li>Kotlin <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> 
+    <li>Spring <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></li> 
+    <li>Javascript <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
+    
+</ul>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
