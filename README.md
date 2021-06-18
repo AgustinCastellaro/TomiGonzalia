@@ -18,10 +18,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-  <li> C: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></li>
-  <li> Haskell: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"/></li>
-  <li> HTML5: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></li>
-  <li> CSS3: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></li>
+  <li> C <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></li>
+  <li> Haskell <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"/></li>
+  <li> HTML5 <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></li>
+  <li> CSS3 <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></li>
  </ul>
  </p>
 
