@@ -10,7 +10,7 @@
 <h3 align="left">I want to learn:</h3>
 <p >
   <ul>
-<li><img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> <li><img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
+<li>Kotlin <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> <li>Javascript <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
 </ul>
 </p>
 
