@@ -5,7 +5,7 @@
 </p>
 
 - 💻️ I'm currently learning <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> **Java** and <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/> **MySQL**
-- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
+- 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science 
 
 
 
