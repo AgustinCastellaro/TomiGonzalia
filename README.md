@@ -1,4 +1,6 @@
 <h1 align="center"> Hi! I'm Tomas 🇦🇷️</h1>
+<h1 align="center"> Hi! Ich bin!! ADOLF HITLER!!! 🇩🇪࿖࿖࿖</h1>
+<a href="https://www.youtube.com/watch?v=8O6-3o3PomY">🇩🇪¡Die Fahne hoch!🇩🇪</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TomiGonzalia&color=red&style=flat">
