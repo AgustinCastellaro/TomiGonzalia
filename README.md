@@ -8,11 +8,22 @@
 - 📕️ I'm currently studying at Universidad Nacional de Cordoba for my Bachelor's in Computer Science (on my 3rd year)
 
 <h3 align="left">I want to learn:</h3>
-<p >
+<p>
   <ul>
-<li>Kotlin <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> <li>Javascript <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
+    <li>Kotlin <img align="center" height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png"/></li> 
+    <li>Javascript <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></li> 
+    <li>Spring <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/></li> 
 </ul>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<ul>
+  <li> C: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/></li>
+  <li> Haskell: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg"/></li>
+  <li> HTML5: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></li>
+  <li> CSS3: <img align="center" height="16" width="16" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></li>
+ </ul>
+ </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
